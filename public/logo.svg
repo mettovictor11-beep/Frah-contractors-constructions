@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" fill="none">
+  <!-- Symbol: Geometric Architectural 'F' and Rising Structure -->
+  <g transform="translate(10, 10)">
+    <!-- Base Navy Foundation Block -->
+    <rect x="10" y="10" width="22" height="80" rx="4" fill="#0A172E"/>
+    <!-- Top Primary Blue Crane/Beam Horizontal -->
+    <rect x="36" y="10" width="54" height="22" rx="4" fill="#0E87EA"/>
+    <!-- Middle Navy Beam Horizontal -->
+    <rect x="36" y="40" width="38" height="20" rx="4" fill="#1C3970"/>
+    <!-- Diagonal Dynamic Accent / Structural Truss (Cyan-Blue) -->
+    <polygon points="76,68 96,90 80,90 60,68" fill="#38A5F7"/>
+    <!-- Floating Precision White Accent Dot -->
+    <circle cx="86" cy="21" r="3.5" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Typography: FRAH CONTRACTORS -->
+  <text x="130" y="62" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="44" font-weight="800" letter-spacing="1.5" fill="#0A172E">FRAH</text>
+  <text x="268" y="62" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="44" font-weight="300" letter-spacing="3" fill="#0E87EA">CONTRACTORS</text>
+  <text x="132" y="88" font-family="'Inter', sans-serif" font-size="12" font-weight="600" letter-spacing="4.5" fill="#64748B">ENGINEERING • BUILDING • INFRASTRUCTURE</text>
+</svg>
